@@ -49,7 +49,7 @@ ToDoApp/
 
 ## 🎥 Demo
 
-📽️ Watch the full demo on [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/posts/eslam-elsayed-a3b183264_iosdevelopment-objectivec-todolistapp-activity-7321877491088805888-EJAo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDPLg8BBULkCm0f5lZEYq8VEACSXorKZeI))
+📽️ Watch the full demo on [LinkedIn](https://www.linkedin.com/posts/eslam-elsayed-a3b183264_iosdevelopment-objectivec-todolistapp-activity-7321877491088805888-EJAo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDPLg8BBULkCm0f5lZEYq8VEACSXorKZeI)
 
 ---
 
